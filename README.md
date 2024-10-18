@@ -55,4 +55,4 @@ Por último instalamos las librerías necesarias para el proyecto usando los com
 
 ## Consolidado de los datasets
 
-Finalmente unimos los dos datasets limpios usando como primary key la columna PropertyId. 
+Finalmente unimos los dos datasets limpios usando como primary key la columna PropertyId. El resultado final es el archivo consolidado.csv que se encuentra en este repositorio. 
